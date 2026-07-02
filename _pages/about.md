@@ -27,11 +27,19 @@ My empirical work uses longitudinal and panel data, causal-inference designs, se
 - **Research Assistant**, Nanjing Forestry University (April–September 2020): data collection and analysis for a report on public services in rural China
 - **Visiting Research Student**, Department of Agricultural Economics, Ghent University (August–December 2019)
 
-## Methods and skills
+## Research competencies
 
+- **Theoretical frameworks**: life-course residential mobility and linked lives; amenity migration, spatial sorting and escalator-region theory; the aspirations–capabilities framework; unemployment scarring and place-based cumulative disadvantage
 - **Longitudinal and life-course methods**: sequence and trajectory analysis (including dyadic and multidomain extensions), optimal matching and trajectory typologies, multilevel models
 - **Causal inference**: staggered difference-in-differences and event-study designs, instrumental variables, regression discontinuity, panel and correlated-random-effects models
 - **Spatial methods**: spatial econometrics (SAR and SDM families), spatial microsimulation, agent-based modelling
+- **Data**: BHPS/UKHLS (Understanding Society), EU-SILC, CFPS, CLDS, and Chinese census and prefecture-level panel data, with ONS/NOMIS and NUTS-level contextual linkage
 - **Software**: R, Stata, Python, ArcGIS, LaTeX, Git
 
 I am on the academic job market and open to postdoctoral and faculty positions in population geography, demography, and regional studies. You can reach me at x.pan@rug.nl.
+
+## Beyond research
+
+- **Sports and outdoors**: running, table tennis, and camping
+- **Languages**: Mandarin (native), English (full professional proficiency), Dutch (learning, A2 towards B2), plus introductory French and Japanese
+- **Volunteering**: China Association for Science and Technology (June–September 2018), coordinating school participation in a national survey on AI education in Chinese primary and secondary schools
