@@ -27,4 +27,11 @@ My empirical work uses longitudinal and panel data, causal-inference designs, se
 - **Research Assistant**, Nanjing Forestry University (April–September 2020): data collection and analysis for a report on public services in rural China
 - **Visiting Research Student**, Department of Agricultural Economics, Ghent University (August–December 2019)
 
+## Methods and skills
+
+- **Longitudinal and life-course methods**: sequence and trajectory analysis (including dyadic and multidomain extensions), optimal matching and trajectory typologies, multilevel models
+- **Causal inference**: staggered difference-in-differences and event-study designs, instrumental variables, regression discontinuity, panel and correlated-random-effects models
+- **Spatial methods**: spatial econometrics (SAR and SDM families), spatial microsimulation, agent-based modelling
+- **Software**: R, Stata, Python, ArcGIS, LaTeX, Git
+
 I am on the academic job market and open to postdoctoral and faculty positions in population geography, demography, and regional studies. You can reach me at x.pan@rug.nl.
