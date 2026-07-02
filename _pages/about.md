@@ -19,7 +19,7 @@ My empirical work uses longitudinal and panel data, causal-inference designs, se
 - M.Sc. in Public Management (Rural Development and Management), China Agricultural University, 2018–2020
 - B.A. in Development Studies and Rural Regional Development, China Agricultural University, 2014–2018
 
-## Research experience
+## Research project experience
 
 - **Guest Researcher**, Faculty of Spatial Sciences, University of Groningen (2026–present)
 - **Postdoctoral Researcher**, MOBI-TWIN (Horizon Europe), University of Groningen (December 2025–May 2026): simulation-oriented research on spatial mobility and regional population dynamics under the digital and green transitions
