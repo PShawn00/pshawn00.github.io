@@ -4,7 +4,7 @@ collection: publications
 category: underreview
 permalink: /publication/jobs-amenities-higher-education
 type: "Manuscript"
-venue: "under review at a leading SSCI-indexed journal"
+venue: "under review and revision at a leading SSCI-indexed journal"
 date: 2026-06-29
 excerpt: "Pan, X., Wen, J., Mantegazzi, D., Koster, S., and Ballas, D."
 ---
