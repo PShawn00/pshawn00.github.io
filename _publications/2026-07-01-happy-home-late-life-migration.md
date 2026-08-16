@@ -4,7 +4,7 @@ collection: publications
 category: underreview
 permalink: /publication/happy-home-late-life-migration
 type: "Manuscript"
-venue: "under review after major revision at a leading SSCI-indexed journal"
+venue: "under review at a leading SSCI-indexed journal"
 date: 2026-07-01
 excerpt: "Pan, X., Mantegazzi, D., and Koster, S."
 ---
