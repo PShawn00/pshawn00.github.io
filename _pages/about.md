@@ -36,9 +36,13 @@ My empirical work uses longitudinal and panel data, causal-inference designs, se
 - **Employment trajectories, regional labour markets, and wellbeing:** unemployment scarring; regional labour-market and settlement contexts; macro-period variation; geography of discontent and regional resilience (Clark et al., 2001; Rodríguez-Pose, 2018).
 - **Migration agency, constraint, and wellbeing:** aspirations–capabilities; voluntary–involuntary mobility; cumulative advantage and disadvantage (de Haas, 2021; Dannefer, 2003).
 
-### Methods, data, and research workflows
+### Methods, survey data and software
 
-- **Data:** longitudinal household panels (Understanding Society/BHPS and CFPS); cross-national European microdata (EU-SILC); census and linked regional data for China and Europe.
+- **Scoping review and evidence synthesis:** ASReview-assisted literature screening, manual relevance assessment and synthesis of findings across studies.
+- **Survey production and coordination:** questionnaire-design and pilot-testing contributions; roster-based proportionate household sampling; door-to-door interviewing; field-team task allocation and enumerator guidance; questionnaire-data consolidation and initial cleaning; university, local-authority, consultancy, and partner-organisation liaison.
+- **Longitudinal survey-data construction and harmonisation:** multi-wave person–household linkage; person-year, residential-history, and employment-history construction; cross-wave and cross-country variable harmonisation; survey weights, attrition, sample-selection, documentation, and individual-to-context linkage across CFPS, BHPS/Understanding Society, and EU-SILC.
+- **Longitudinal, trajectory, causal, and multilevel analysis:** panel and sequence analysis; multidomain and dyadic trajectory comparison; Callaway–Sant'Anna staggered difference-in-differences and event studies; correlated random-effects/Mundlak and multilevel models; multinomial models. Spatial analysis (e.g., SAR, SDM, SEM).
+- **R-first software and reproducible workflow:** R for survey-data preparation, sequence and trajectory analysis, causal and multilevel modelling, visualisation, and reusable scripts; Stata for data management and panel workflows; ASReview; Git/GitHub; LaTeX/Overleaf. Secondary tools include ArcGIS, Python, and SPSS.
 
 ## Conference presentations
 
