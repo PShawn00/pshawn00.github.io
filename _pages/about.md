@@ -40,6 +40,21 @@ My empirical work uses longitudinal and panel data, causal-inference designs, se
 
 - **Data:** longitudinal household panels (Understanding Society/BHPS and CFPS); cross-national European microdata (EU-SILC); census and linked regional data for China and Europe.
 
+## Conference presentations
+
+- **ERSA Congress**, Sofia, Bulgaria (2026). *A Two-Layer Geography of Unemployment-Related Happiness Penalties: Place and Labour-Market Timing in Europe*.
+- **AMEF Conference**, Thessaloniki, Greece (2026). *Where do Agent-Based Model Movers Go? A Matching Approach Using Socio-demographic Clusters and Place Typologies*.
+- **North American Regional Science Conference**, San Diego, United States (2023). *Linked Life Stages? Teenage Migration and Early-Adulthood Migratory Behaviour*.
+- **ERSA Congress**, Alicante, Spain (2023). *Childhood Migration Experience and Migration Flexibility in Adulthood*.
+- **RSAI-BIS Annual Conference**, Newcastle, United Kingdom (2023). *Are There Happiness Costs of Late-Life Migration?*
+- **ERSA Congress**, Pécs, Hungary (2022). *Does Migration to Urban Areas Make Elder Parents Happy?*
+- **European Population Conference**, Groningen, the Netherlands (2022). *Do Natural Amenities Become More Important? China's Population Growth and Regional Development*.
+
+## Invited talks and workshops
+
+- **Zhejiang A&F University**, online (2025). Invited lecture: *International Comparison: Dutch Urban Governance and Social Security Policy*.
+- **Yunnan Agricultural University**, Kunming, China (2025). Invited workshop: *SSCI Paper Writing and AI-assisted Research Applications in Quantitative Social Science*.
+
 I am on the academic job market and open to postdoctoral and faculty positions in population geography, demography, and regional studies. You can reach me at x.pan@rug.nl.
 
 ## Beyond research
