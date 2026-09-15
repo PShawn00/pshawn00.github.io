@@ -45,6 +45,5 @@ I am on the academic job market and open to postdoctoral and faculty positions i
 
 ## Beyond research
 
-- **Sports and outdoors**: running, table tennis, and camping
-- **Languages**: Mandarin (native), English (full professional proficiency), Dutch (learning, A2 towards B2), plus introductory French and Japanese
+- **Languages**: Mandarin (native), English (full professional proficiency), Dutch (A2), plus introductory French and Japanese
 - **Volunteering**: China Association for Science and Technology (June–September 2018), coordinating school participation in a national survey on AI education in Chinese primary and secondary schools
