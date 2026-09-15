@@ -38,7 +38,6 @@ My empirical work uses longitudinal and panel data, causal-inference designs, se
 
 ### Methods, data, and research workflows
 
-- **Models and methods:** longitudinal and panel models; sequence and multidomain trajectory analysis; multilevel models; spatial econometrics and CRE/Mundlak specifications; staggered difference-in-differences and event-study designs.
 - **Data:** longitudinal household panels (Understanding Society/BHPS and CFPS); cross-national European microdata (EU-SILC); census and linked regional data for China and Europe.
 
 I am on the academic job market and open to postdoctoral and faculty positions in population geography, demography, and regional studies. You can reach me at x.pan@rug.nl.
