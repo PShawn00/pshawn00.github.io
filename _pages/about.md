@@ -29,12 +29,17 @@ My empirical work uses longitudinal and panel data, causal-inference designs, se
 
 ## Research competencies
 
-- **Theoretical frameworks**: life-course residential mobility and linked lives; amenity migration, spatial sorting and escalator-region theory; the aspirations–capabilities framework; unemployment scarring and place-based cumulative disadvantage
-- **Longitudinal and life-course methods**: sequence and trajectory analysis (including dyadic and multidomain extensions), optimal matching and trajectory typologies, multilevel models
-- **Causal inference**: staggered difference-in-differences and event-study designs, instrumental variables, regression discontinuity, panel and correlated-random-effects models
-- **Spatial methods**: spatial econometrics (SAR and SDM families), spatial microsimulation, agent-based modelling
-- **Data**: BHPS/UKHLS (Understanding Society), EU-SILC, CFPS, CLDS, and Chinese census and prefecture-level panel data, with ONS/NOMIS and NUTS-level contextual linkage
-- **Software**: R, Stata, Python, ArcGIS, LaTeX, Git
+### Theoretical and substantive expertise
+
+- **Regional development, amenities, and spatial sorting:** amenity migration; spatial equilibrium; skill-based sorting across places (Roback, 1982; Partridge, 2010; Diamond, 2016).
+- **Life-course, linked lives, and family mobility:** residential mobility over the life course; linked lives; migration as a cumulative process (Mulder & Hooimeijer, 1999; Coulter et al., 2016).
+- **Employment trajectories, regional labour markets, and wellbeing:** unemployment scarring; regional labour-market and settlement contexts; macro-period variation; geography of discontent and regional resilience (Clark et al., 2001; Rodríguez-Pose, 2018).
+- **Migration agency, constraint, and wellbeing:** aspirations–capabilities; voluntary–involuntary mobility; cumulative advantage and disadvantage (de Haas, 2021; Dannefer, 2003).
+
+### Methods, data, and research workflows
+
+- **Models and methods:** longitudinal and panel models; sequence and multidomain trajectory analysis; multilevel models; spatial econometrics and CRE/Mundlak specifications; staggered difference-in-differences and event-study designs.
+- **Data:** longitudinal household panels (Understanding Society/BHPS and CFPS); cross-national European microdata (EU-SILC); census and linked regional data for China and Europe.
 
 I am on the academic job market and open to postdoctoral and faculty positions in population geography, demography, and regional studies. You can reach me at x.pan@rug.nl.
 
