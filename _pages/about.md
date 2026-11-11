@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a quantitative population and migration geographer. I study how migration, family dynamics, labour-market transitions, and regional opportunity structures shape wellbeing and spatial inequality across the life course, with empirical work spanning China, the UK, and cross-national European settings.
+I am a quantitative population researcher studying migration, family relationships, and wellbeing over the life course and across places. My empirical work spans China, the UK, and cross-national European settings.
 
 I am currently a guest researcher at the Faculty of Spatial Sciences, University of Groningen, where I completed my PhD in Economic Geography in January 2026. My dissertation examined the interplay between migration, family, and wellbeing from both temporal and spatial perspectives. Most recently, I worked as a postdoctoral researcher on MOBI-TWIN, a Horizon Europe project on changing patterns of spatial mobility across European regions.
 
-My empirical work uses longitudinal and panel data, causal-inference designs, sequence and trajectory analysis, and spatial econometrics, and I am extending this toolkit into spatial microsimulation and agent-based modelling.
+My methodological expertise spans longitudinal and spatial data analysis, with particular strength in sequence analysis, and I am experienced in handling complex longitudinal microdata and regional statistical data. I am also extending this work into spatial microsimulation and agent-based modelling.
 
 ## Education
 
@@ -79,5 +79,5 @@ I am on the academic job market and open to postdoctoral and faculty positions i
 
 ## Beyond research
 
-- **Languages**: Mandarin (native), English (full professional proficiency), Dutch (A2), plus introductory French and Japanese
+- **Languages**: Mandarin (native), English (full professional proficiency), Dutch (A2)
 - **Volunteering**: China Association for Science and Technology (June–September 2018), coordinating school participation in a national survey on AI education in Chinese primary and secondary schools
