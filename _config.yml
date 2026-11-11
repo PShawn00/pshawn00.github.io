@@ -91,7 +91,7 @@ publication_category:
   underreview:
     title: 'Manuscripts Under Review and Revision'
   books:
-    title: 'Books and Book Chapters'
+    title: 'Books, Chapters and Reports'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

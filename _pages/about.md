@@ -29,20 +29,26 @@ My empirical work uses longitudinal and panel data, causal-inference designs, se
 
 ## Research competencies
 
-### Theoretical and substantive expertise
+### Theoretical perspectives in current research
 
-- **Regional development, amenities, and spatial sorting:** amenity migration; spatial equilibrium; skill-based sorting across places (Roback, 1982; Partridge, 2010; Diamond, 2016).
-- **Life-course, linked lives, and family mobility:** residential mobility over the life course; linked lives; migration as a cumulative process (Mulder & Hooimeijer, 1999; Coulter et al., 2016).
-- **Employment trajectories, regional labour markets, and wellbeing:** unemployment scarring; regional labour-market and settlement contexts; macro-period variation; geography of discontent and regional resilience (Clark et al., 2001; Rodríguez-Pose, 2018).
-- **Migration agency, constraint, and wellbeing:** aspirations–capabilities; voluntary–involuntary mobility; cumulative advantage and disadvantage (de Haas, 2021; Dannefer, 2003).
+- **Life-course, linked lives, and family mobility:** residential mobility over the life course; linked lives; family-embedded mobility; intergenerational support and residential transitions; migration as a cumulative process (Mulder & Hooimeijer, 1999; Coulter et al., 2016; Bernard & Vidal, 2020).
+- **Labour-market trajectories and wellbeing:** unemployment scarring and wellbeing adaptation; regional labour-market and settlement contexts; geography of discontent (Clark et al., 2001, 2008; Rodríguez-Pose, 2018).
+- **Regional development, amenities, and migration flows:** amenity migration; spatial equilibrium; skill-based sorting across places (Roback, 1982; Partridge, 2010; Diamond, 2016).
 
-### Methods, survey data and software
+### Data and methods competences
 
-- **Scoping review and evidence synthesis:** ASReview-assisted literature screening, manual relevance assessment and synthesis of findings across studies.
-- **Survey production and coordination:** questionnaire-design and pilot-testing contributions; roster-based proportionate household sampling; door-to-door interviewing; field-team task allocation and enumerator guidance; questionnaire-data consolidation and initial cleaning; university, local-authority, consultancy, and partner-organisation liaison.
-- **Longitudinal survey-data construction and harmonisation:** multi-wave person–household linkage; person-year, residential-history, and employment-history construction; cross-wave and cross-country variable harmonisation; survey weights, attrition, sample-selection, documentation, and individual-to-context linkage across CFPS, BHPS/Understanding Society, EU-SILC, and Chinese census data.
-- **Longitudinal, trajectory, causal, and multilevel analysis:** panel and sequence analysis; multidomain and dyadic trajectory comparison; Callaway–Sant'Anna staggered difference-in-differences and event studies; correlated random-effects/Mundlak and multilevel models; multinomial models. Spatial analysis (e.g., SAR, SDM, SEM).
-- **R-first software and reproducible workflow:** R for survey-data preparation, sequence and trajectory analysis, causal and multilevel modelling, visualisation, and reusable scripts; Stata for data management and panel workflows; ASReview; Git/GitHub; LaTeX/Overleaf. Secondary tools include ArcGIS, Python, and SPSS.
+- **Sequence analysis:** dyadic and multidomain sequence analysis; optimal matching, clustering and cross-stage comparisons.
+- **Longitudinal and spatial modelling:** fixed-effects and random-effects panel models; multilevel models; survival analysis; spatial econometric models.
+- **Causal inference methods:** difference-in-differences, including staggered designs and event studies; matching methods, including propensity score matching; instrumental variables.
+- **Data management and linkage:**
+  - *Family and household linkage:* identifying family relationships using relationship matrices; linking individual and household records.
+  - *Longitudinal data construction:* linking records and harmonising variables across waves; constructing life-course histories, person-period datasets and time-varying covariates.
+  - *Regional data preparation and linkage:* harmonising regional indicators across sources and years; constructing regional panels and linking individual records to contextual indicators.
+- **Data experience:**
+  - *Microdata:* British Household Panel Survey and Understanding Society; China Family Panel Studies; European Union Statistics on Income and Living Conditions; China Labor-force Dynamics Survey.
+  - *Macrodata:* aggregated census data and regional historical panel data.
+- **Evidence synthesis and fieldwork:** scoping reviews; qualitative case studies, interviews and participant observation; questionnaire design and household survey fieldwork.
+- **Software:** R, Stata, ArcGIS, Python, Git/GitHub and LaTeX.
 
 ## Conference presentations
 
@@ -58,6 +64,16 @@ My empirical work uses longitudinal and panel data, causal-inference designs, se
 
 - **Zhejiang A&F University**, online (2025). Invited lecture: *International Comparison: Dutch Urban Governance and Social Security Policy*.
 - **Yunnan Agricultural University**, Kunming, China (2025). Invited workshop: *SSCI Paper Writing and AI-assisted Research Applications in Quantitative Social Science*.
+
+## Academic service
+
+- **Coordinator**, URSI Lunch Seminar series, University of Groningen (2023–2024). Coordinated 12 seminars.
+- **Peer reviewer**: *Journal of Happiness Studies*; *Advances in Life Course Research*; *Applied Research in Quality of Life*.
+
+## Awards
+
+- PhD Scholarship, University of Groningen (2021–2025)
+- Academic Excellence Award for Postgraduates, Tier 2, China Agricultural University (2018–2020)
 
 I am on the academic job market and open to postdoctoral and faculty positions in population geography, demography, and regional studies. You can reach me at x.pan@rug.nl.
 

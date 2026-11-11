@@ -1,7 +1,7 @@
 ---
 title: "Migration and Development"
 collection: teaching
-type: "Bachelor's course, guest lecture"
+type: "Bachelor's course, guest lecturer"
 permalink: /teaching/migration-and-development
 venue: "University of Groningen, Department of Economic Geography"
 date: 2025-02-01
